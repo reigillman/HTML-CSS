@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+  background-image: url("../images/gestalt.jpg");
+	background-color: #FF0040;
+  border-image-repeat: repeat;
+}
